@@ -31,7 +31,7 @@ C'est le fameux bot bump "friends" ! CECI N'EST Q'UN REMADE, le serveur officiel
         "note": "si tu ne comprend pas ce qu'il faut faire je te coneille d'aller voir le readme du github ou rejoindre le support https://discord.gg/zcN3sB5KSv",
         "host": "127.0.0.1 || host du vps",     
         "user": "root || user du vps",
-        "password": "Supprimer cette ligne si vous êtes pas sur vps"
+        "password": "Supprimer cette ligne si vous êtes pas sur vps",
         "database": "friends",
         "charset": "utf8mb4"
     }
